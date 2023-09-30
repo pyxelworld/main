@@ -1,6 +1,7 @@
 body {
-    background-color: white;
+    background-color: #241858;
     font-family: 'Inter', sans-serif;
+    color: white;
 }
 
 .ad {
@@ -36,6 +37,12 @@ body {
 
 .toplink {
     text-decoration: underline;
+    transition: 0.3s;
+}
+
+.toplink:hover {
+    text-decoration: none;
+color: #5246F2;
 }
 
 .button {
@@ -50,23 +57,6 @@ body {
     font-size: 20px;
     margin-top: 45px;
     margin-right: 20px;
-}
-.social {
-    background-color: #0600FF;
-    width: calc(100% + 15px);
-  margin-left: auto;
-    height: 390px;
-    display: flex;
-    margin-left: -7.5px;
-}
-
-.play {
-    background-color: #FCB200;
-    width: calc(100% + 15px);
-  margin-left: auto;
-    height: 390px;
-    display: flex;
-    margin-left: -7.5px;
 }
 
 .adicon {
@@ -112,4 +102,24 @@ p {
 a {
     color: white;
     text-decoration: none;
+}
+
+input,select {
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    border: #18103c 3px solid;
+}
+
+.submit {
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    border: #18103c 3px solid;
+    transition: 0.3s;
+}
+
+.submit:hover {
+    background-color: #5246F2;
+    color: white;
 }

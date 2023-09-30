@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Tan';
+    src: url('/TANNIMBUS.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('/Gotham-Black.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.animate-in {
+    -webkit-animation: fadeIn .5s ease-in;
+    animation: fadeIn .5s ease-in;
+}
+
+.animate-out {
+    -webkit-transition: opacity .5s;
+    transition: opacity .5s;
+    opacity: 0;
+}
+
+@-webkit-keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}

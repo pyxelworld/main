@@ -51,23 +51,6 @@ body {
     margin-top: 45px;
     margin-right: 20px;
 }
-.social {
-    background-color: #0600FF;
-    width: calc(100% + 15px);
-  margin-left: auto;
-    height: 390px;
-    display: flex;
-    margin-left: -7.5px;
-}
-
-.play {
-    background-color: #FCB200;
-    width: calc(100% + 15px);
-  margin-left: auto;
-    height: 390px;
-    display: flex;
-    margin-left: -7.5px;
-}
 
 .adicon {
     width: 390px;
