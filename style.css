@@ -12,6 +12,42 @@ body {
     margin-left: -7.5px;
 }
 
+.ldv {
+    background-color: #9706b3;
+    width: calc(100% + 15px);
+  margin-left: auto;
+    height: 390px;
+    display: flex;
+    margin-left: -7.5px;
+}
+
+.pyaic {
+    background-color: #9d1424;
+    width: calc(100% + 15px);
+  margin-left: auto;
+    height: 390px;
+    display: flex;
+    margin-left: -7.5px;
+}
+
+.pyaib {
+    background-color: #2865b0;
+    width: calc(100% + 15px);
+  margin-left: auto;
+    height: 390px;
+    display: flex;
+    margin-left: -7.5px;
+}
+
+.pyai {
+    background-color: #2dd182;
+    width: calc(100% + 15px);
+  margin-left: auto;
+    height: 390px;
+    display: flex;
+    margin-left: -7.5px;
+}
+
 .top {
     background-color: #34c26c;
     width: calc(100% + 15px);
