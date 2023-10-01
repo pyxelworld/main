@@ -4,7 +4,7 @@ body {
 }
 
 .ad {
-    background-color: #241858;
+    background-color: #4acf50;
     width: calc(100% + 15px);
   margin-left: auto;
     height: 390px;
@@ -13,7 +13,7 @@ body {
 }
 
 .top {
-    background-color: #5246F2;
+    background-color: #34c26c;
     width: calc(100% + 15px);
     height: 110px;
     display: flex;
