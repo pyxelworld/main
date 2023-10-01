@@ -36,13 +36,11 @@ body {
 }
 
 .toplink {
-    text-decoration: underline;
-    transition: 0.3s;
+    text-decoration: none;
 }
 
 .toplink:hover {
-    text-decoration: none;
-color: #5246F2;
+    text-decoration: underline;
 }
 
 .button {

@@ -35,6 +35,10 @@ body {
 }
 
 .toplink {
+    text-decoration: none;
+}
+
+.toplink:hover {
     text-decoration: underline;
 }
 
