@@ -12,6 +12,15 @@ body {
     margin-left: -7.5px;
 }
 
+.leoad {
+    background-color: #3FC85F;
+    width: calc(100% + 15px);
+  margin-left: auto;
+    height: 390px;
+    display: flex;
+    margin-left: -7.5px;
+}
+
 .bottomad {
     background-color: #4acf50;
     width: calc(100% + 15px);
